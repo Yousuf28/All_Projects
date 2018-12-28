@@ -1,5 +1,7 @@
 # All_Projects
 
+- [All Projects_view](https://yousuf28.github.io/All_Projects/)
+
 ***
 
 - [Data Analyst Nanodegree_Udacity](https://github.com/Yousuf28/udacity_data_analyst_nano_degree)
