@@ -14,6 +14,6 @@
 
 ***
 
--[Machine Learning Materials to Follow](https://yousuf28.github.io/Machine_Learning_Materials_to_Follow/)
+- [Machine Learning Materials to Follow](https://yousuf28.github.io/Machine_Learning_Materials_to_Follow/)
 
 ***
