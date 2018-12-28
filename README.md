@@ -1,6 +1,6 @@
 # All_Projects
 
-- [All Projects_view](https://yousuf28.github.io/All_Projects/)
+- [view](https://yousuf28.github.io/All_Projects/)
 
 ***
 
