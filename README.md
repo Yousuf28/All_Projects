@@ -4,6 +4,10 @@
 
 
 
+****
+
+- [Data Scientist Nanodegree_Term_01_Udacity](https://github.com/Yousuf28/Udacity_Data_Scientist_Nanodegree)
+
 ***
 
 - [Data Analyst Nanodegree_Udacity](https://github.com/Yousuf28/udacity_data_analyst_nano_degree)
@@ -21,3 +25,7 @@
 - [Machine Learning Materials to Follow](https://yousuf28.github.io/Machine_Learning_Materials_to_Follow/)
 
 ***
+
+- [Deep Learning Materials](https://github.com/Yousuf28/Deep_Learning_Materials)
+
+****
