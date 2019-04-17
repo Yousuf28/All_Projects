@@ -29,3 +29,5 @@
 - [Deep Learning Materials](https://github.com/Yousuf28/Deep_Learning_Materials)
 
 ****
+
+- [Python Materials](https://github.com/Yousuf28/Python_materials)
