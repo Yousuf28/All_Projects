@@ -16,7 +16,14 @@
 
 - [Data Analyst Nanodegree_Udacity](https://github.com/Yousuf28/udacity_data_analyst_nano_degree)
 
-***
+****
+
+- [Udacity_Data_Structures_and_Algorithms_Nanodegree](https://github.com/Yousuf28/Udacity_Data_Structures_and_Algorithms_Nanodegree)
+
+
+****
+
+
 
 - [Statistics With R_Coursera](https://github.com/Yousuf28/Statistics_with_R_Coursera)
 
@@ -35,3 +42,11 @@
 ****
 
 - [Python Materials](https://github.com/Yousuf28/Python_materials)
+
+****
+
+- [Algorithms_materials](https://github.com/Yousuf28/Algorithms_materials)
+
+******
+
+- 
