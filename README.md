@@ -4,6 +4,26 @@
 
 
 
+******
+
+all deep learning-5, data scientist-3 , data analyst-5 projects.
+
+give kaggle link and sas and sql code
+
+statistics with R -4
+
+toward data sciece- 2
+
+youtube-01
+
+add all certifications
+
+
+
+*****
+
+
+
 ****
 
 - [Deep Learning Nanodegree_Udacity](https://github.com/Yousuf28/Udacity_Deep_Learning_Nanodegree)
