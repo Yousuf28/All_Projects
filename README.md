@@ -38,7 +38,6 @@ add all certifications
 
 ****
 
-- [Udacity_Data_Structures_and_Algorithms_Nanodegree](https://github.com/Yousuf28/Udacity_Data_Structures_and_Algorithms_Nanodegree)
 
 
 ****
@@ -53,11 +52,9 @@ add all certifications
 
 ***
 
-- [Machine Learning Materials to Follow](https://yousuf28.github.io/Machine_Learning_Materials_to_Follow/)
 
 ***
 
-- [Deep Learning Materials](https://github.com/Yousuf28/Deep_Learning_Materials)
 
 ****
 
@@ -66,11 +63,9 @@ add all certifications
 
 ****
 
-- [Python Materials](https://github.com/Yousuf28/Python_materials)
 
 ****
 
-- [Algorithms_materials](https://github.com/Yousuf28/Algorithms_materials)
 
 ******
 
