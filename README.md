@@ -6,19 +6,6 @@
 
 ******
 
-all deep learning-5, data scientist-3 , data analyst-5 projects.
-
-give kaggle link and sas and sql code
-
-statistics with R -4
-
-toward data sciece- 2
-
-youtube-01
-
-add all certifications
-
-
 
 *****
 
@@ -38,11 +25,7 @@ add all certifications
 
 ****
 
-
-
 ****
-
-
 
 - [Statistics With R_Coursera](https://github.com/Yousuf28/Statistics_with_R_Coursera)
 
@@ -51,13 +34,6 @@ add all certifications
 - [Intermediate Biostatistics](https://github.com/Yousuf28/Intermediate_Biostatistics_Project)
 
 ***
-
-
-***
-
-
-****
-
 
 - [US_Pharmaceutical_Map](https://github.com/Yousuf28/US_Pharmaceutical_Map)
 
